@@ -5,3 +5,4 @@ This project delves into the realm of road accident analysis, aiming to unravel 
 
 ## Objectives
 1. Trend Identification: Uncover patterns and trends in road accidents over time to understand factors contributing to accidents.
+2. Root Cause Analysis: Identify primary reasons behind road accidents, such as speeding, weather conditions, or road infrastructure issues.
